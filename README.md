@@ -45,11 +45,6 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SuhasBRao&stroke=38DD69&background=165795&ring=37DD57&fire=1CD577&sideNums=120E5BF2&sideLabels=1ADD40&currStreakLabel=10EF24&dates=11E2E7FF&currStreakNum=639E29)
-
-[![@suhasbrao's Holopin board](https://holopin.me/suhasbrao)](https://holopin.io/@suhasbrao)
 ---
 
 <h2  align="center">&#x1F4EC; Reach me on</h2>
