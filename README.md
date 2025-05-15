@@ -1,6 +1,4 @@
 
-<!--
-**SuhasBRao/SuhasBRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1 align="center"> 👨‍💻 Who am i </h1>
 
 ---
@@ -9,10 +7,10 @@
 
 <p align="center">
   <br>
-  I'm Suhas B, I love Programming.
+  I'm Jiapeng Shi, I love Programming.
   I'm more of a self-learner who loves to learn from the Internet.
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=blue alt="https://suhasbrao.github.io/" /> 
+  <img src="https://komarev.com/ghpvc/?username=garbonreal&color=green&style=flat" color=blue alt="https://garbonreal.github.io/" /> 
  
   <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" alt="https://github.com/SuhasBRao" /> -->
 </p>
