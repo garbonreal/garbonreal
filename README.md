@@ -37,7 +37,7 @@
 - ✅ Strong foundation in data structures, algorithms, competitive programming, and system design.
 - ✅ Proficient in full-stack development, leveraging frameworks like Spring Boot, Flask, and the MERN stack.
 - ✅ Experience in machine learning and deep learning (PyTorch), covering the complete ML lifecycle.
-- ✅ Deep understanding of the data lifecycle, encompassing data engineering, data analysis, data modeling and visualization with Python libraries.
+- ✅ Deep understanding of the data lifecycle, encompassing data engineering, data analysis, data modeling.
 
 <h2 align="center"> 🎯 My Tech Stack</h2>
 
