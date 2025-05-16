@@ -25,8 +25,8 @@
 <h4>🌱 Who I am</h4>
 
 - &#11088; I work on ***Improving my skills*** in free time.
-- &#128396; I'm a ***Pencil artist***.
-- &#127936; I love playing ***Basketball***.
+- 📷 I'm a Photography enthusiast.
+- 🌍 I love Traveling and exploring new places.
 - &#128526; I am ***super positive*** and I always look forward to new adventures around Tech.
 
 🔗 check out my [portfolio](https://garbonreal.github.io/) 
