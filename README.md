@@ -5,6 +5,12 @@
 
 <img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=Hey+there,+I'm+Suhas.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
 
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+there,+I'm+Jiapeng.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG"/>
+    </h1>
+</div>
+
 <p align="center">
   <br>
   I'm Jiapeng Shi, I love Programming.
