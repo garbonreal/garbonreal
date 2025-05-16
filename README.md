@@ -19,8 +19,7 @@
   I'm more of a self-learner who loves to learn from the Internet.
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=garbonreal&color=green&style=flat" color=blue alt="https://garbonreal.github.io/" /> 
- 
-  <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" alt="https://github.com/SuhasBRao" /> -->
+
 </p>
 
 - &#11088; I work on ***Improving my skills*** in free time.
@@ -84,10 +83,19 @@ check out my [portfolio](https://garbonreal.github.io/)
   </a>
 </p>
 
-<p>
-  <img align="left" height="150" src="https://raw.githubusercontent.com/garbonreal/garbonreal/output/snake.svg" alt="Snake animation" />
+<h2  align="center"> 📊 Github Stats</h2>
+
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/garbonreal/garbonreal/output/snake.svg" alt="Snake animation" />
   <br clear="both">
-</p>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=garbonreal&theme=github_dark" alt="Jiapeng's GitHub Streak" style="width: 90%; display: inline-block"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garbonreal&theme=github_dark" alt="Jiapeng's GitHub Stats" style="width: 90%; display: inline-block"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garbonreal&theme=blue_green" alt="Top Languages By Repo" style="width: 45%; display: inline-block;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garbonreal&theme=blue_green" alt="Stats" style="width: 45%; display: inline-block" />
+</div>
 
 
   
