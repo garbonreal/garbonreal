@@ -92,8 +92,8 @@ check out my [portfolio](https://garbonreal.github.io/)
 
 <div align="center">
     <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=garbonreal&theme=github_dark" alt="Jiapeng's GitHub Streak" style="width: 55%; display: inline-block"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garbonreal&hide=css&theme=github_dark" alt="Top Languages By Repo" style="width: 35%; display: inline-block;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=garbonreal&theme=github_dark" alt="Jiapeng's GitHub Streak" style="width: 54%; display: inline-block"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garbonreal&hide=css&theme=github_dark" alt="Top Languages By Repo" style="width: 36%; display: inline-block;" />
     </div>
     <div>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garbonreal&theme=github_dark" alt="Jiapeng's GitHub Stats" style="width: 60%; display: inline-block"/>
