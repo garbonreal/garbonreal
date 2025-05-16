@@ -1,7 +1,7 @@
 
 <div align="center">
     <p>
-        <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Hello World!" height="100px" />
+        <img src="images/coding.gif" alt="Hello World!" width="300px"/>
     </p>
 </div>
 
@@ -9,7 +9,7 @@
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=5000&color=blue&center=true&vCenter=true&width=800&lines=Hey+there,+I'm+Jiapeng.;I+love+Programming.;An+Open-Source+Enthusiast!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=5000&color=f45d48&center=true&vCenter=true&width=800&lines=Hey+there,+I'm+Jiapeng.;I+love+Programming.;An+Open-Source+Enthusiast!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG"/>
     </h1>
 </div>
 
@@ -24,9 +24,11 @@
 </p>
 
 - &#11088; I work on ***Improving my skills*** in free time.
-- &#128396; I'm a ***Pencil artist***.(Check out my instagram profile below)
+- &#128396; I'm a ***Pencil artist***.
 - &#127936; I love playing ***Basketball***.
 - &#128526; I am ***super positive*** and I always look forward to new adventures around Tech.
+
+check out my [portfolio](https://garbonreal.github.io/) 
 
 
 <h2 align="center"> :student: Programming Languages</h2>
@@ -56,39 +58,35 @@
 <h2  align="center">&#x1F4EC; Reach me on</h2>
 
 <p align = "center">  
-<a href="https://www.instagram.com/suhasbrao/">
-  <img
-    alt="Instagram"
-    src = "https://cdn-icons-png.flaticon.com/512/174/174855.png"
-    width = 35
-    height = 35
-   />
-</a>
-&emsp;
-<a href="mailto:raos04567@gmail.com?subject=Hello%20Ileri,%20From%20Github">
-  <img 
-    src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
-    width = 35
-    height = 35   
- />
-</a>
-&emsp;
-<a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
-  <img 
-    src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
-    width = 35
-    height = 35   
- />
-</a>
-&emsp;
-<a href="https://www.quora.com/profile/Suhas-Rao-66">
-  <img 
-    src = "https://cdn-icons-png.flaticon.com/512/185/185976.png"
-    width = 35
-    height = 35   
- />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/garbon35/">
+    <img
+      alt="Instagram"
+      src = "https://cdn-icons-png.flaticon.com/512/174/174855.png"
+      width = 35
+      height = 35
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:jpeng.shi2000@gmail.com?subject=Hello%20Jiapeng,%20From%20Github">
+    <img 
+      src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
+      width = 35
+      height = 35   
+  />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jiapeng-shi-740a142a7/">
+    <img 
+      src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
+      width = 35
+      height = 35   
+  />
+  </a>
+</p>
+
+<p>
+  <img align="left" height="150" src="https://raw.githubusercontent.com/garbonreal/garbonreal/output/snake.svg" alt="Snake animation" />
+  <br clear="both">
 </p>
 
 
